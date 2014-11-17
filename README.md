@@ -13,7 +13,7 @@ It enables an ability to use 1 credentials on multiple domains without modifying
 
   We've created a gem for rubyists to do it automatically: [oauth2-me-ruby]
 
-**Note:** You should never use [oauth2.me] with your production servers, the [state parameter] we are using,
+_**Note:**_ You should never use [oauth2.me] with your production servers, the [state parameter] we are using,
 should be used to protect your application from [CSRF attacks].
 
 
